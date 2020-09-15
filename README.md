@@ -1,2 +1,2 @@
 # coursera
-Coursera
+My Digital CV
